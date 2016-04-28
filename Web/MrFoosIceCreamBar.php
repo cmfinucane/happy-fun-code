@@ -90,6 +90,12 @@ class milkShake extends orderIC
     
 }
 
+// The following code is an implementation of the above class and its kids
+//it is not OOP
+
+
+
+
 //Make a basic web interface to test the class
 
 $var_value = $_POST['flavor'];
